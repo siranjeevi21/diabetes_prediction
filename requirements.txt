@@ -6,4 +6,4 @@ streamlit==0.72.0
 plotly==4.14.1
 Pillow==8.0.1
 scikit_learn==0.24.0
-vizent >1.0.1
+vizent == 1.0
