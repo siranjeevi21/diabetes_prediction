@@ -15,6 +15,7 @@ import seaborn as sns
 df = pd.read_csv('diabetes.csv')
 
 # HEADINGS
+st.subheader('press this > button enter the values')
 st.text("author: Siranjeevi")
 st.title('Diabetes Checkup')
 st.sidebar.header('Patient Data')
